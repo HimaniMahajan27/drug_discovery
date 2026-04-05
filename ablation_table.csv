@@ -1,0 +1,6 @@
+Variant,AUC,Acc,F1,ΔAUC
+Full UXGNN,0.9176,0.8439,0.8926,0.0
+w/o Edge-Aware Conv,0.9161,0.8537,0.8993,-0.0015
+w/o Attention Pooling,0.917,0.8732,0.9139,-0.0007
+w/o Multi-Scale Readout,0.9216,0.8683,0.9115,0.0039
+w/o Edge + Attention,0.9418,0.8585,0.9017,0.0241

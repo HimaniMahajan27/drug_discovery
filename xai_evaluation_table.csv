@@ -1,0 +1,5 @@
+Method,Type,Fidelity,Sparsity,Stability
+Attention (UXGNN),Attention,0.096,0.322,0.998
+Integrated Grads,Gradient,0.179,0.537,0.998
+GNNExplainer,Perturbation,0.061,0.536,0.856
+GraphSHAP,Game-theoretic,0.226,0.771,0.994
